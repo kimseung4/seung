@@ -1,0 +1,26 @@
+.header {
+  padding: 50px;
+}
+
+.login {
+  padding: 50px;
+  float: right;
+}
+
+.photo img {
+  width: 100%;
+}
+
+.category {
+  background-color: rgb(78, 189, 229);
+}
+
+.category h1 {
+  text-align: center;
+  color: rgb(255, 225, 0);
+  padding: 50px;
+}
+
+.category img {
+  padding: 30px;
+}
