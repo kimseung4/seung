@@ -1,5 +1,5 @@
 # seung
-Chingoo
+
 Topic: Chingoo is a language learning website that focuses on learning Korean. Chingoo means a “friend” in Korean; and is a fun and friendly platform where the audience can learn about Korea’s rich history, culture, and famous landmarks as they learn the language along the way. The target audience is people who are interested in learning Korean as well as traveling to the country.
 
 Problem: Most language learning platforms only offer services that just focus on teaching the language. I believe that learners learn better and faster when they become familiar with the selected language’s country. I created Chingoo to propose that learning a language should be fun rather than just memorizing vocabularies and phrases. 
