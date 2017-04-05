@@ -47,7 +47,7 @@
 
 .phrase img {
   position: absolute;
-  top: 75%;
+  top: 50%;
 	left: 25%;
 }
 
@@ -56,8 +56,27 @@
   background-color: rgba(255, 255, 255, 0.8);
   margin: 30px;
   padding: 30px;
-  column-count: 2;
-  top: 30%;
+  top: 25%;
 	left: 30%;
+}
 
+.quiz h1 {
+  font-weight: bold;
+}
+
+.next img {
+  position: absolute;
+  margin: 30px;
+  padding: 30px;
+  top: 100%;
+	left: 42%;
+}
+
+.review {
+  position: absolute;
+  background-color: rgba(255, 255, 255, 0.8);
+  margin: 30px;
+  padding: 30px;
+  top: 25%;
+	left: 35%;
 }
